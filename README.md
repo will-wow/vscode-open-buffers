@@ -14,7 +14,9 @@ For example if there is an image subfolder under your extension project workspac
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+### FZF
+
+This extension uses FZF, which you have to install on your system. You can follow the instructions [here](https://github.com/junegunn/fzf#installation).
 
 ## Extension Settings
 
