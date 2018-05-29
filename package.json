@@ -8,9 +8,15 @@
   "engines": {
     "vscode": "^1.23.0"
   },
-  "keywords": ["vscode"],
-  "categories": ["Other"],
-  "activationEvents": ["*"],
+  "keywords": [
+    "vscode"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
   "main": "./out/extension",
   "contributes": {
     "commands": [
